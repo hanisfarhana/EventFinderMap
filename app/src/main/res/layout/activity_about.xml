@@ -239,7 +239,7 @@
             android:id="@+id/app_url"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Link to Mobile App:"
+            android:text="Link to Mobile App: https://github.com/hanisfarhana/EventFinderMap"
             android:textSize="16sp"
             android:textColor="#333"
             android:paddingBottom="8dp" />
