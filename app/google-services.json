@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151453565944",
+    "firebase_url": "https://eventfindermap-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eventfindermap",
+    "storage_bucket": "eventfindermap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151453565944:android:1a8aeb0f2f7919da6c8c0d",
+        "android_client_info": {
+          "package_name": "com.example.eventfindermap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sqBKF0drTHWWRceDFvnROkqE7OdTXAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
